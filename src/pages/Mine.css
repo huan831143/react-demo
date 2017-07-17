@@ -1,0 +1,89 @@
+.mine-user{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+.mine-login{
+    font-size: 14px;
+    color: #fff;
+    display: block;
+    width: 125px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1fc8a1;
+    position: relative;
+    top: 40px
+}
+.mine-buttons{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top:50px ;
+}
+.mine-button{
+    display: block;
+    width: 48%;
+    height: 86px;
+    line-height: 86px;
+    background-color: #1fc8a1;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 10px;
+    position: relative;
+}
+.mine-none{
+    display: none;
+}
+.mine-center{
+    position: relative;
+    width: 90%;
+    top: 20px;
+    height: 111px;
+    text-align: center;
+    margin: 0 auto;
+}
+.mine-but{
+    position: absolute;
+    color: #00b38a;
+    font-size: 14px;
+    right: 0;
+}
+.mine-headcon{
+    height: 81px;
+    width: 81px;
+    margin: 0 auto;
+    background-clip: padding-box;
+    overflow: hidden;
+    background-color: #f6f6f6;
+    border-radius:50% ;
+}
+.mine-headpic{
+    width: 72px;
+    height: 72px;
+    margin: 4px 0 0 1px;
+    border-radius:50% ;
+}
+.mine-name{
+    font-size: 16px;
+    color: #333;
+    height: 22px;
+    line-height: 22px;
+}
+.mine-logout{
+    display: inline-block;
+    width: 90%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #1fc8a1;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 5%;
+
+}

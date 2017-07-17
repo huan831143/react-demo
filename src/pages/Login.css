@@ -1,0 +1,82 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.login-box{
+    width: 100%;
+    height: 1000px;
+    background:#029253;
+    overflow: hidden;
+}
+.login-form{
+    width: 90%;
+    padding: 20px 0;
+    margin: 0 auto;
+}
+.login-name,.login-password{
+    width: 90%;
+    border: 0;
+    outline: 0;
+    font: 16px "黑体";
+    color: #333;
+    background: #fff;
+    border-radius: 0;
+    padding: 6% 5%;
+    margin: 0 auto;
+}.login-name{
+    border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+ .login-password{
+     border-bottom-left-radius: 5px;
+     border-bottom-right-radius: 5px;
+ }
+.login-green{
+    display: inline-block;
+    border: 0;
+    width: 90%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    background: #0ac599;
+    box-shadow: 0 2px 0 #008765;
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 5%;
+}
+.login-p{
+    color: #45e3be;
+    font-size: 14px;
+    line-height: 1.3;
+}
+.login-register{
+    width: 100%;
+    font-size: 20px;
+    color: #45e3be;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid #45e3be;
+    border-radius: 5px;
+    margin: 8px 0;
+    padding: 5%;
+    background: none;
+}
+.login-eye{
+    width: 20px;
+    height: 13px;
+    background: url(//img.lagou.com/passport/static/mobile/modules/common/img/psweye_930f545.png) 0 0 no-repeat;
+    background-size: 20px 30px;
+    position: absolute;
+    right: 38px;
+    top: 110px;
+}
+.login-eyes{
+    width: 20px;
+    height: 13px;
+    background: url(//img.lagou.com/passport/static/mobile/modules/common/img/psweye_930f545.png) 0 -16px no-repeat;
+    background-size: 20px 30px;
+    position: absolute;
+    right: 38px;
+    top: 110px;
+}

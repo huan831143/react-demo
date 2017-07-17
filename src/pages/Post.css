@@ -1,0 +1,91 @@
+.post-top{
+    border-bottom: 1px solid #e8e8e8;
+    height: 43px;
+    line-height: 43px;
+    padding: 0 15px;
+    color: #555;
+    font-size: 15px;
+    position: relative;
+}
+.post-login{
+    position: absolute;
+    right: 15px;
+    top: 0;
+    display: block;
+    float: right;
+    background-color: #f5f5f5;
+    padding: 0 20px;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 6px;
+    color: #00b38a;
+    border-radius: 15px;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 30px;
+    padding-bottom: 80px;
+    color: #333;
+}
+.copyright-item{
+    height: 32px;
+    line-height: 32px;
+}
+.post-color{
+    color: #999;
+}
+.post-a{
+    color: black;
+}
+.list-more{
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 16px;
+    background-color: #fafafa;
+}
+.post-none{
+    display: none;
+}
+.post-logtop{
+    border-bottom: 1px solid #e8e8e8;
+    height: 43px;
+    line-height: 43px;
+    padding: 0 15px;
+    color: #555;
+    font-size: 14px;
+    position: relative;
+}
+.post-logtop span{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    margin-right: 100px;
+    height: 100%;
+    position: relative;
+}
+.post-topgo{
+    position: absolute;
+    right: 15px;
+    top: 0;
+    display: block;
+    float: right;
+    background-color: #f5f5f5;
+    padding: 0 20px;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 6px;
+    color: #00b38a;
+    border-radius: 15px;
+}
+.post-topicon{
+    display: inline-block;
+    width: 10px;
+    height: 20px;
+    background: url(../components/imgs/icon.png ) no-repeat -88px 7px;
+    background-size: 250px 250px;
+    margin-right:8px;
+}

@@ -1,0 +1,30 @@
+.seek-text{
+    display: inline-block;
+    height: 45px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 75%;
+}
+
+.seek-history-item{
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 0 0 23px;
+}
+
+.seek-delcon{
+    float: right;
+    width: 40px;
+    height: 45px;
+    text-align: center;
+    width: 14%;
+}
+.seek-delicon{
+    display: inline-block;
+    height: 10px;
+    width: 12px;
+    background: url(./imgs/icon.png ) no-repeat -71.5px -4px;
+    background-size: 250px 250px;
+}
